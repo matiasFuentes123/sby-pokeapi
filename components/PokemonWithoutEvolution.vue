@@ -66,7 +66,7 @@ export default {
     }
   },
   mounted() {
-    // this.getPokemonList()
+    this.getPokemonList()
   },
   methods: {
     async getPokemonList() {
